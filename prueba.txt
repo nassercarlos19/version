@@ -1,3 +1,7 @@
+working in history 2;
+still working in history 2;
+nearly finished history 2;
+
 Working in history 1;
 Still Working in history 1;
 end of history 1;
