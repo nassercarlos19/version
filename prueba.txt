@@ -1,10 +1,15 @@
 working in history 2;
-still working in history 2;
-nearly finished history 2;
+still working (also S2H2) in history 2;
+nearly finished history 2, this is a little extra from S2H2;
+
+Working on sprint 2 history 2;
+End of sprint 2 history 2;
 
 Working in history 1;
-Still Working in history 1;
+Still Working (Also S2H2) in history 1;
 end of history 1;
 
 Adding new feature for hisotry 3;
 End of history 3;
+
+End of S2H2;
